@@ -1,0 +1,72 @@
+﻿  Parsing headers for VRDebuggingEditor
+    Running UnrealHeaderTool "D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\VRDebugging.uproject" "D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\VRDebuggingEditor\Development\VRDebuggingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for VRDebuggingEditor in 5.2101167 seconds
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0001.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0002.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0003.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0004.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0005.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0007.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0008.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0009.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0010.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0011.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0013.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0014.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0021.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0022.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0023.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0024.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0025.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0026.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0028.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0029.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0030.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0035.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0036.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0038.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0040.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0042.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0043.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0045.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0046.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Binaries\Win64\UE4Editor-VRDebugging-0050.dll
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0001.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0002.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0003.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0004.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0005.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0007.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0008.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0009.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0010.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0011.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0013.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0014.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0021.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0022.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0023.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0024.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0025.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0026.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0028.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0029.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0030.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0035.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0036.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0038.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0040.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0042.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0043.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0045.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0046.lib
+  Deleted hot-reload file: D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0050.lib
+  Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 6 processes...
+    [1/3] UE4Editor-VRDebugging.lib
+       Creating library D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging.lib and object D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging.exp
+    [2/3] UE4Editor-VRDebugging.dll
+       Creating library D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging.suppressed.lib and object D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging.suppressed.exp
+    [3/3] VRDebuggingEditor.target
+  Total time in Parallel executor: 0.89 seconds
+  Total execution time: 6.76 seconds

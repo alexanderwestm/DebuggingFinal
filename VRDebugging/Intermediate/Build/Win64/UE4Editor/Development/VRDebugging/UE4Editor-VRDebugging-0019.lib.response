@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRDebugging-0019.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\VRDebuggingEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\DataActor.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\DataActorComponent.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\DisplayData.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\MySceneComponent.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\TestActorComponent.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\VRDebugging.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\DataActor.gen.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\DataActorComponent.gen.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\DisplayData.gen.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\MySceneComponent.gen.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\TestActorComponent.gen.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\VRDebugging.init.gen.cpp.obj"
+"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\Default.rc2.res"
+/OUT:"D:\1SCHOOL\Year 4\S2\Debugging\Final\VRDebugging\Intermediate\Build\Win64\UE4Editor\Development\VRDebugging\UE4Editor-VRDebugging-0019.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRDebugging

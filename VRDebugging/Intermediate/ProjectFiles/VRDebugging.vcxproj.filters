@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VRDebugging.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{169B1A4E-C811-408D-8724-824F64878672}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VRDebugging.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VRDebuggingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5A9F87AD-CD7A-4C7A-94DB-37378712D57A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VRDebugging">
+      <UniqueIdentifier>{5959150F-0549-43C8-8780-94569E028B0D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VRDebugging\DisplayData.cpp">
+      <Filter>Source\VRDebugging</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRDebugging\DisplayData.h">
+      <Filter>Source\VRDebugging</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRDebugging\MySceneComponent.cpp">
+      <Filter>Source\VRDebugging</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRDebugging\MySceneComponent.h">
+      <Filter>Source\VRDebugging</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRDebugging\TestActorComponent.cpp">
+      <Filter>Source\VRDebugging</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRDebugging\TestActorComponent.h">
+      <Filter>Source\VRDebugging</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VRDebugging\VRDebugging.Build.cs">
+      <Filter>Source\VRDebugging</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VRDebugging\VRDebugging.cpp">
+      <Filter>Source\VRDebugging</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRDebugging\VRDebugging.h">
+      <Filter>Source\VRDebugging</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\VRDebugging\DataActor.h">
+      <Filter>Source\VRDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VRDebugging\DataActorComponent.h">
+      <Filter>Source\VRDebugging</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\VRDebugging\DataActor.cpp">
+      <Filter>Source\VRDebugging</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VRDebugging\DataActorComponent.cpp">
+      <Filter>Source\VRDebugging</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
